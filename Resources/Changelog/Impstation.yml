@@ -1,27 +1,4 @@
 ﻿Entries:
-- author: hivehum
-  changes:
-  - message: Nanotrasen is pleased to announce that trade negotiations regarding its
-      supplier of matter bins and capacitors have completed, and new shipments have
-      arrived at all stations.
-    type: Add
-  id: 2477
-  time: '2025-12-11T04:57:13.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3777
-- author: ATDoop
-  changes:
-  - message: You can find a weird long toy now.
-    type: Add
-  id: 2478
-  time: '2025-12-11T05:28:46.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3840
-- author: yesteryuri
-  changes:
-  - message: Doughs and cheese and such have a page in the cooking recipes now
-    type: Add
-  id: 2479
-  time: '2025-12-11T05:36:45.0000000+00:00'
-  url: https://github.com/impstation/imp-station-14/pull/3768
 - author: kipdotnet
   changes:
   - message: Ephedrine and Desoxyephedrine now cause you to heat up and gain thirst
@@ -4047,3 +4024,29 @@
   id: 2976
   time: '2026-09-27T08:02:21.0000000+00:00'
   url: https://github.com/impstation/imp-station-14/pull/4603
+- author: Squamatic, marsh-meadows
+  changes:
+  - message: Added coldplates, a tool for chemists to gently chill chemicals without
+      watering them down. Ask science for one today!
+    type: Add
+  id: 2977
+  time: '2026-09-27T18:12:45.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4592
+- author: Dizzy-Eevee
+  changes:
+  - message: Empty floor lights no longer accept (and consequentially, fix) broken/burned
+      light bulbs
+    type: Fix
+  id: 2978
+  time: '2026-09-27T18:25:19.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4619
+- author: Kandiyaki
+  changes:
+  - message: Added a new "Targeted" section to the emote wheel - these emotes will
+      target whatever you were mousing over when you opened the emote wheel!
+    type: Add
+  - message: Three new targeted emotes - Wave At, Look At, and Wink At.
+    type: Add
+  id: 2979
+  time: '2026-09-28T09:19:05.0000000+00:00'
+  url: https://github.com/impstation/imp-station-14/pull/4460
